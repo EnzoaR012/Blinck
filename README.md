@@ -53,14 +53,11 @@ Sendo: X = 3000ms,  Y = 500ms
 Objetivos: Montar e simular no Tinkercad um LED externo em protoboard com resistor, controlado por um pino digital do Arduino.
 
 Video de demosntração do projeto funcionando
-<figure>
-  <video controls playsinline muted width="640">
-    <source src="assets/blink_demo.mp4" type="video/mp4">
-    Seu navegador não suporta vídeo embutido.
-    <a href="assets/blink_demo.mp4">Baixe o arquivo</a>.
-  </video>
-  <figcaption>Pisca-pisca do Arduino (LED interno e externo).</figcaption>
-</figure>
+<div align="center">
+<sub>Vídeo 03: Hardware — LED externo piscando.</sub>
+<a href="assets/blink_demo.mp4)</a>
+<sup>Fonte: Material produzido pela equipe, 2025.</sup>
+</div>
 
 Codigo da simulação do Tinkercad, tendo como X = 1000ms e Y = 500ms.
 <br>
