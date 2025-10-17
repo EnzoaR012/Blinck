@@ -55,11 +55,11 @@ Objetivos: Montar e simular no Tinkercad um LED externo em protoboard com resist
 Video de demosntração do projeto funcionando
 <figure>
   <video controls playsinline muted width="640">
-    <source src="assets/Video.mp4" type="video/mp4">
-    Seu navegador não suporta vídeo embutido. 
-    <a href="assets/Video.mp4">Baixe o arquivo aqui</a>.
+    <source src="assets/blink_demo.mp4" type="video/mp4">
+    Seu navegador não suporta vídeo embutido.
+    <a href="assets/blink_demo.mp4">Baixe o arquivo</a>.
   </video>
-  <figcaption>Pisca-pisca do Arduino (interno/externo).</figcaption>
+  <figcaption>Pisca-pisca do Arduino (LED interno e externo).</figcaption>
 </figure>
 
 Codigo da simulação do Tinkercad, tendo como X = 1000ms e Y = 500ms.
