@@ -3,7 +3,7 @@
 <sub>Figura 1 - Arduino </sub>
 <br>
 <br>
-<img src="assets/Arduino.pngArduino.png" alt='' width="100%">
+<img src="assets/Arduino.png" alt='' width="100%">
 <br>
 <br>
 <sup>Fonte: Pego na Internet (2025)</sup>
@@ -23,7 +23,7 @@ Sendo: X = 3000ms,  Y = 500ms
 <sub>Figura 1 - COdigo </sub>
 <br>
 <br>
-<img src="assets/Code1.pngCode1.png" alt='' width="100%">
+<img src="assets/Code1.png" alt='' width="100%">
 <br>
 <br>
 <sup>Fonte: Material feito pelo autor (2025)</sup>
@@ -35,7 +35,7 @@ Sendo: X = 3000ms,  Y = 500ms
 <sub>Figura 2 - Codigo1 </sub>
 <br>
 <br>
-<img src="assets/Code.pngCode.png" alt='' width="100%">
+<img src="assets/Code.png" alt='' width="100%">
 <br>
 <br>
 <sup>Fonte: material feito pelo autor (2025)</sup>
